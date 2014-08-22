@@ -1,0 +1,12 @@
+/* 
+* 	Vanessa MacIsaac
+*	stylesheet for index page
+*/
+
+.sideBar{
+		float: left;
+		}
+
+.mainContent{
+			float: right;
+			}
