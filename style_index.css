@@ -12,3 +12,10 @@
 			float: right;
 			width: 70%;
 			}
+.links{
+		color: purple;
+		font-family: georgia, serif;
+	  }
+.links:hover{
+			color: red;
+			}
