@@ -137,22 +137,22 @@ main {
 	width: 100%;
 }
 /* Slide 1 */
-#slide-1 .bcg {background-image:url('../img/flowers.jpg')}
+#slide-1 .bcg {background-color: #FF0000}
 
 /* Slide 2 */
-#slide-2 .bcg {background-image:url('../img/crash.jpg')}
+#slide-2 .bcg {background-color: #00FF00}
 
 /* Slide 3 */
-#slide-3 .bcg {background-image:url('../img/moss.jpg')}
+#slide-3 .bcg {background-color: #0000FF}
 
 /* Slide 4 */
-#slide-4 .bcg {background-image:url('../img/jagged.jpg')}
+#slide-4 .bcg {background-color: #FF0000}
 
 /* Slide 5 */
-#slide-5 .bcg {background-image:url('../img/peaks.jpg')}
+#slide-5 .bcg {background-color: #00FF00}
 
 /* Slide 6 */
-#slide-6 .bcg {background-image:url('../img/typewriter.jpg')}
+#slide-6 .bcg {background-color: #0000FF}
 
 .hsContainer {
 	display: table;
