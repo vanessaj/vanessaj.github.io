@@ -137,22 +137,22 @@ main {
 	width: 100%;
 }
 /* Slide 1 */
-#slide-1 .bcg {background-color: #FF0000}
+#slide-1 .bcg {background-color: #DD0000}
 
 /* Slide 2 */
-#slide-2 .bcg {background-color: #00FF00}
+#slide-2 .bcg {background-color: #00DD00}
 
 /* Slide 3 */
-#slide-3 .bcg {background-color: #0000FF}
+#slide-3 .bcg {background-color: #0000DD}
 
 /* Slide 4 */
-#slide-4 .bcg {background-color: #FF0000}
+#slide-4 .bcg {background-color: #DD0000}
 
 /* Slide 5 */
-#slide-5 .bcg {background-color: #00FF00}
+#slide-5 .bcg {background-color: #00DD00}
 
 /* Slide 6 */
-#slide-6 .bcg {background-color: #0000FF}
+#slide-6 .bcg {background-color: #0000DD}
 
 .hsContainer {
 	display: table;
