@@ -148,30 +148,24 @@ main {
 
 /* Slide 2 */
 #slide-2 .bcg {
-    background-image: url("../img/jagged.jpg");
+    background-image: url("../img/flowers.jpg");
     background-color: #cccccc;
 }
 
 /* Slide 3 */
 #slide-3 .bcg {
-    background-image: url("../img/flowers.jpg");
+    background-image: url("../img/jagged.jpg");
     background-color: #cccccc;
 }
 
 /* Slide 4 */
 #slide-4 .bcg {
-    background-image: url("../img/jagged.jpg");
+    background-image: url("../img/peaks.jpg");
     background-color: #cccccc;
 }
 
 /* Slide 5 */
 #slide-5 .bcg {
-    background-image: url("../img/peaks.jpg");
-    background-color: #cccccc;
-}
-
-/* Slide 6 */
-#slide-6 .bcg {
     background-image: url("../img/typewriter.jpg");
     background-color: #cccccc;
 }
