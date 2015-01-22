@@ -159,10 +159,11 @@ p {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
   text-decoration: none;
-  color: #fd957d; }
+  color: black; }
 a:hover {
-  color: #f53558;
+  color: purple;
   /*color: #0FA0CE;*/ }
+
 
 
 /* Buttons
