@@ -41,10 +41,10 @@
   color: white;
 }
 .container-aboutme > .container-text h5{
-  color: #FDEFD4;
+  /*color: #FDEFD4;*/
 }
 .container-posts > .container-text h5{
-  color: #FCE3E3;
+  /*color: #FCE3E3;*/
 }
 .container-posts li{
   margin-left: 35px;
