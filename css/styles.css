@@ -36,18 +36,22 @@
   background-color: #F07070;
 }
 .container-text{
-  margin: 10px 70px;
+  margin: 5px 70px;
   /*color: #4c4c4c;*/
   color: white;
+}
+.container-text p{
+  margin-left: 10px;
+  margin-bottom: 5px;
+}
+.container-text ul{
+  margin-left: 55px;
 }
 .container-aboutme > .container-text h5{
   /*color: #FDEFD4;*/
 }
 .container-posts > .container-text h5{
   /*color: #FCE3E3;*/
-}
-.container-posts li{
-  margin-left: 35px;
 }
 .container-posts{
   border: solid;
