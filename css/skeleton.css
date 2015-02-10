@@ -159,9 +159,9 @@ p {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
   text-decoration: none;
-  color: black; }
+  color: blue; }
 a:hover {
-  color: purple;
+  color: black;
   /*color: #0FA0CE;*/ }
 
 
