@@ -24,79 +24,87 @@
   color: #fd957d;
   margin-bottom: 0px;
 }
+.lpink{
+  color: #fd957d;
+}
 .container-vanessa{
   border-bottom: 1px solid #eee;
 }
-.container-aboutme{
-  border: solid;
-  border-radius: 20px;
-  border-color: #F07070;
-  padding: 5px;
-  margin: 20px 25px;
-  background-color: #F07070;
-}
-.container-text{
-  margin: 5px 70px;
-  /*color: #4c4c4c;*/
-  color: white;
-}
+
+
 .container-text p{
-  margin-left: 10px;
   margin-bottom: 5px;
 }
-.container-text ul{
-  margin-left: 55px;
+
+
+@media (min-width:1px){
+  .container-text{
+    margin: 5px 2px 15px 2px;
+    color: white;
+  }
+  .container-text ul{
+    margin-left: 5px;
+  }
+
+  .container-pink{
+    border: solid;
+    border-radius: 20px;
+    border-color: #F07070;
+    padding: 5px;
+    margin: 5px 0px;
+    background-color: #F07070;
+  }
+
+  .container-yellow{
+    border: solid;
+    border-radius: 20px;
+    border-color: #F8C25A;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #F8C25A;
+  }
 }
 
-@media (min-width: 750px){
-  
+@media (min-width: 400px){
+  .container-text ul{
+    margin-left: 55px;
+  }
+  .container-text{
+    margin: 5px 2px 15px 2px;
+    color: white;
+  }
 }
 
-.container-aboutme > .container-text h5{
-  /*color: #FDEFD4;*/
-}
-.container-posts > .container-text h5{
-  /*color: #FCE3E3;*/
-}
-.container-posts{
-  border: solid;
-  border-radius: 20px;
-  border-color: #F8C25A;
-  padding: 5px;
-  margin: 20px 25px;
-  background-color: #F8C25A;
-}
-.container-press{
-  border: solid;
-  border-radius: 20px;
-  border-color: #F07070;
-  padding: 5px;
-  margin: 20px 25px;
-  background-color: #F07070;
-}
-.container-contact{
-  border: solid;
-  border-radius: 20px;
-  border-color: #F8C25A;
-  padding: 5px;
-  margin: 20px 25px 20px 25px;
-  background-color: #F8C25A;
-}
-.display-image{
-  margin-left: 5px;
-  margin-right: 5px;
-  max-width: 960px;
-  max-height: 400px;
-  float: left;
-  margin-top: 10px;
-}
-
-.typewriter{
-  width: 50px;
-}
 
 /* Larger than phone */
 @media (min-width: 550px) {
+  .container-text ul{
+    margin-left: 55px;
+  }
+  .container-text{
+    margin: 5px 55px 15px 55px;
+    color: white;
+  }
+
+  .container-pink{
+    border: solid;
+    border-radius: 20px;
+    border-color: #F07070;
+    padding: 5px;
+    margin: 20px 25px;
+    background-color: #F07070;
+  }
+
+  .container-yellow{
+    border: solid;
+    border-radius: 20px;
+    border-color: #F8C25A;
+    padding: 5px;
+    margin: 20px 25px;
+    background-color: #F8C25A;
+  }
+
   .header {
     margin-top: 18rem; }
   .value-props {
