@@ -31,11 +31,9 @@
   border-bottom: 1px solid #eee;
 }
 
-
 .container-text p{
   margin-bottom: 5px;
 }
-
 
 @media (min-width:1px){
   .container-text{
@@ -43,7 +41,7 @@
     color: white;
   }
   .container-text ul{
-    margin-left: 5px;
+    margin-left: 1px;
   }
 
   .container-pink{
