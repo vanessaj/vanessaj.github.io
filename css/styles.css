@@ -3,29 +3,31 @@
   Light yellow = #FDEFD4
   Dark Pink = #F07070
   Dark Yellow = #F8C25A
+  Aqua = #57FEFF
+  Purple = #B041FF
 */
 .navbar-list a {
   text-decoration: none;
-  color: #fd957d; 
+  color: #B041FF; 
 }
 .navbar-list a:hover {
-  color: #f53558; 
+  color: #57FEFF; 
 }
 .vanessa-text a{
   text-decoration: none;
-  color: #fd957d;
+  color: #B041FF;
 }
 .vanessa-text a:hover{
-  color:#f53558;
+  color:#57FEFF;
 }
 .vanessa-text{
   font-family: "Tangerine", Arial, Serif;
   margin-left: 25px;
-  color: #fd957d;
+  color: #B041FF;
   margin-bottom: 0px;
 }
 .lpink{
-  color: #fd957d;
+  color: #B041FF;
 }
 .container-vanessa{
   border-bottom: 1px solid #eee;
@@ -38,29 +40,29 @@
 @media (min-width:1px){
   .container-text{
     margin: 5px 2px 15px 2px;
-    color: white;
+    color: black;
   }
   .container-text ul{
     margin-left: 1px;
   }
 
-  .container-pink{
+  .container-aqua{
     border: solid;
     border-radius: 20px;
-    border-color: #F07070;
+    border-color: black;
     padding: 5px;
     margin: 5px 0px;
-    background-color: #F07070;
+    background-color: #E0FFFF;
   }
 
-  .container-yellow{
+  .container-purple{
     border: solid;
     border-radius: 20px;
-    border-color: #F8C25A;
+    border-color: black;
     padding: 5px;
     margin-top: 10px;
     margin-bottom: 10px;
-    background-color: #F8C25A;
+    background-color: #D0B0FF;
   }
 }
 
@@ -81,26 +83,26 @@
     margin-left: 55px;
   }
   .container-text{
-    margin: 5px 55px 15px 55px;
-    color: white;
+    margin: 30px 55px 35px 55px;
+    color: black;
   }
 
-  .container-pink{
+  .container-aqua{
     border: solid;
     border-radius: 20px;
-    border-color: #F07070;
+    border-color: black;
     padding: 5px;
     margin: 20px 25px;
-    background-color: #F07070;
+    background-color: #E0FFFF;
   }
 
-  .container-yellow{
+  .container-purple{
     border: solid;
     border-radius: 20px;
-    border-color: #F8C25A;
+    border-color: black;
     padding: 5px;
     margin: 20px 25px;
-    background-color: #F8C25A;
+    background-color: #D0B0FF;
   }
 
   .header {
