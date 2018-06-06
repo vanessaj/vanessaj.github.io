@@ -4,6 +4,7 @@
   Dark Pink = #F07070
   Dark Yellow = #F8C25A
   Aqua = #57FEFF
+  Turquoise =   #40E0D0
   Purple = #B041FF
 */
 .navbar-list a {
@@ -11,14 +12,14 @@
   color: #B041FF; 
 }
 .navbar-list a:hover {
-  color: #57FEFF; 
+  color: #40E0D0; 
 }
 .vanessa-text a{
   text-decoration: none;
   color: #B041FF;
 }
 .vanessa-text a:hover{
-  color:#57FEFF;
+  color:#40E0D0;
 }
 .vanessa-text{
   font-family: "Tangerine", Arial, Serif;
